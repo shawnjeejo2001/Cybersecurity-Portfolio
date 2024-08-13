@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network analysis using tcpdump | <a href="https://github.com/shawnjeejo2001/Project-3">Incident Report</a>|
 | Incident report analysis using NIST cybersecurity framework     |  <a href="https://github.com/shawnjeejo2001/Project-3">Incident Report analysis using NIST framework</a>|
 | Applying filters to SQL queries                |  <a href="https://github.com/shawnjeejo2001/Project-3">SQL project</a>|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 
