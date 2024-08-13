@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Separation of Duties and Principle of least privelege using Linux bash shell       | <a href="https://github.com/shawnjeejo2001/Project-1">Separation of duties using Linux bash shell</a>|
 | File handling in Python | <a href="https://github.com/shawnjeejo2001/Project-2">Update a file using python</a>|
 | Network analysis using tcpdump | <a href="https://github.com/shawnjeejo2001/Project-3">Incident Report</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Incident report analysis using NIST cybersecurity framework     |  <a href="https://github.com/shawnjeejo2001/Project-3">Incident Report analysis using NIST framework</a>|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
