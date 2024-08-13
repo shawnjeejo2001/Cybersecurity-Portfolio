@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | File handling in Python | <a href="https://github.com/shawnjeejo2001/Project-2">Update a file using python</a>|
 | Network analysis using tcpdump | <a href="https://github.com/shawnjeejo2001/Project-3">Incident Report</a>|
 | Incident report analysis using NIST cybersecurity framework     |  <a href="https://github.com/shawnjeejo2001/Project-3">Incident Report analysis using NIST framework</a>|
-| Case Management with TheHive                  | SOC Automation Lab|
+| Applying filters to SQL queries                |  <a href="https://github.com/shawnjeejo2001/Project-3">SQL project</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
