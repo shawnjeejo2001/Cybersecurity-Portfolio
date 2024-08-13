@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Separation of Duties and Principle of least privelege using Linux bash shell       | <a href="https://google.com](https://github.com/shawnjeejo2001/Project-1">Separation of duties using Linux bash shell</a>|
+| Separation of Duties and Principle of least privelege using Linux bash shell       | <a href="https://github.com/shawnjeejo2001/Project-1">Separation of duties using Linux bash shell</a>|
 | File handling in Python | <a href="https://github.com/shawnjeejo2001/Project-2">Update a file using python</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
